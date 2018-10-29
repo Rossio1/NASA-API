@@ -1,0 +1,19 @@
+body{
+  background: teal;
+  text-align: center;
+}
+
+input {
+  display: flex;
+  margin: 0 auto;
+}
+
+button {
+  display: flex;
+  margin: 0 auto;
+}
+
+.pic{
+  margin: 0 auto;
+  background: cover;
+}
